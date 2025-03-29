@@ -1,0 +1,9 @@
+# add all files in the venv folder
+venv/
+
+# add all files in the .env folder
+.env/
+
+# pycache
+__pycache__/
+*.pyc
