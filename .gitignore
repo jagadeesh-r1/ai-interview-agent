@@ -7,3 +7,6 @@ venv/
 # pycache
 __pycache__/
 *.pyc
+
+# upload folder
+uploads/
